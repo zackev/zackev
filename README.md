@@ -2,7 +2,8 @@
 
 # 💫 About Me:
 
-I'm a WordPress template developer and UI implementation specialist. <br>I love building clean, modern, and responsive websites using tools like Elementor, Tailwind CSS, and Figma.
+Hi! 👋 I'm Muhammad Zacky Maulana Rahman, a Frontend Developer with a keen interest in building interactive, efficient, and user-friendly web applications. I enjoy turning ideas into functional, responsive websites.
+I’m constantly exploring new technologies, learning about web development best practices, and improving my problem-solving skills. My goal is to create seamless digital experiences and contribute to meaningful projects.
 
 ## 🌐 Socials:
 
